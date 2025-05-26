@@ -17,10 +17,10 @@ Cryplex AI BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/CryplexAi-BOT.git
+   git clone https://github.com/bilalrai2/Cryplexai-Bot.git
    ```
    ```bash
-   cd CryplexAi-BOT
+   cd Cryplexai-Bot
    ```
 
 2. **Install Requirements:**
